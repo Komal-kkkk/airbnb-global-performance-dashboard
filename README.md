@@ -4,17 +4,13 @@ Interactive Power BI dashboard analyzing Airbnb's global listings, market share,
 ## 📊 Dashboard Preview
 
 ### Overview
-
-![Dashboard Overview](screenshots/Overview.png)
+![Overview](Overview.png)
 
 ### Market Share & Ratings
-
-![Market Share and Ratings](screenshots/Ratings.png)
+![Ratings](Ratings.png)
 
 ### Reviews & Host Trust
-
-![Reviews and Trust](screenshots/Reviewst.png)
-
+![Reviews](Reviews.png)
 ---
 
 ## 🎯 Project Objectives
